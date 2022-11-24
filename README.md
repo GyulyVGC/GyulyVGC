@@ -1,6 +1,6 @@
-<p>
+<p align="center">
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&hide=prs,issues,contribs"/>
-&nbsp;&nbsp;
+&nbsp;
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&layout=compact&theme=tokyonight"/>
 </p>
   
