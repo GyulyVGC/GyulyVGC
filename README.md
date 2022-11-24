@@ -1,9 +1,7 @@
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&hide=prs,issues,contribs"/>
-</p>
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&layout=compact&theme=tokyonight"/>
+<p>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&hide=prs,issues,contribs"/>
+&nbsp;&nbsp;
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&layout=compact&theme=tokyonight"/>
 </p>
   
 <!--
