@@ -1,4 +1,4 @@
-# I'm Giuliano Bellini, nice to meet you! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+<h1 align="center"> I'm Giuliano Bellini, nice to meet you! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="center">
   <a href="mailto:gyulyvgc99@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
@@ -10,6 +10,10 @@
   <a href="https://twitter.com/GyulyVGC" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+student+from+Italy;Tech+enthusiast;Sleep,+Code,+Hike,+Eat,+Repeat;&center=true&width=500&height=45">
 </p>
 
 <p align="center">
