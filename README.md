@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Giuliano Bellini, nice to meet you! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> My name is Giuliano, nice to meet you! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="center">
   <a href="mailto:gyulyvgc99@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
