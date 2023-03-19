@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&count_private=true&include_all_commits=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 &nbsp;
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&layout=compact&theme=tokyonight"/>
 </p>
