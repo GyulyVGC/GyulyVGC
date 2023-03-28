@@ -1,4 +1,10 @@
-<h1 align="center"> My name is Giuliano, nice to meet you! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h3 align="center"> My name is Giuliano, nice to meet you! <a href="#"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </a> </h3>
+
+<p>
+<a href="#">
+<img src="https://user-images.githubusercontent.com/100347457/227869349-cc588f0f-13bf-45e4-aaf6-b55a5c641191.png" width=100%>
+</a>
+</p>
 
 <p align="center">
   <a href="mailto:gyulyvgc99@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
@@ -12,15 +18,21 @@
   </a>
 </p>
 
+<a href="#">
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+student+from+Italy;Tech+enthusiast;Sleep,+Code,+Hike,+Eat,+Repeat;&center=true&width=500&height=25">
 </div>
+</a>
 
-<p align="center">
+<div align="center">
+<a href="#">
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=45,111111,555555&border_color=1DA1F2&title_color=1DA1F2&icon_color=1DA1F2&text_color=b35900"/>
+</a>
 &nbsp;
+<a href="#">
 <img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&layout=compact&theme=tokyonight&langs_count=8&bg_color=45,555555,111111&border_color=1DA1F2&title_color=1DA1F2&text_color=b35900"/>
-</p>
+</a>
+</div>
   
 <!--
 **GyulyVGC/GyulyVGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
