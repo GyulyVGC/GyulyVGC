@@ -17,9 +17,9 @@
 </div>
 
 <p align="center">
-<img height=232 src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=45,111111,555555&border_color=1DA1F2&title_color=1DA1F2&icon_color=1DA1F2&text_color=b35900"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=45,111111,555555&border_color=1DA1F2&title_color=1DA1F2&icon_color=1DA1F2&text_color=b35900"/>
 &nbsp;
-<img height=232 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&layout=compact&theme=tokyonight&langs_count=8&bg_color=45,555555,111111&border_color=1DA1F2&title_color=1DA1F2&text_color=b35900"/>
+<img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&layout=compact&theme=tokyonight&langs_count=8&bg_color=45,555555,111111&border_color=1DA1F2&title_color=1DA1F2&text_color=b35900"/>
 </p>
   
 <!--
