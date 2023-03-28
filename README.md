@@ -1,26 +1,26 @@
-<h3 align="center"> My name is Giuliano, nice to meet you! <a href="#"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </a> </h3>
+<h3 align="center"> My name is Giuliano, nice to meet you!&nbsp;&nbsp;<a href="#"> <img alt="" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> </a> </h3>
 
 <p>
 <a href="#">
-<img src="https://user-images.githubusercontent.com/100347457/227869349-cc588f0f-13bf-45e4-aaf6-b55a5c641191.png" width=100%>
+<img alt="" src="https://user-images.githubusercontent.com/100347457/227869349-cc588f0f-13bf-45e4-aaf6-b55a5c641191.png" width=100%>
 </a>
 </p>
 
 <p align="center">
   <a href="mailto:gyulyvgc99@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt ="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/giuliano-bellini-b01286216/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
   <a href="https://twitter.com/GyulyVGC" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 <a href="#">
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+student+from+Italy;Tech+enthusiast;Sleep,+Code,+Hike,+Eat,+Repeat;&center=true&width=500&height=25">
+<img alt="" src="https://readme-typing-svg.herokuapp.com?lines=Addicted+to+Rust+🦀;Nature+lover+🏔️;Astronomy+enthusiast+🔭;&center=true&width=500&height=34">
 </div>
 </a>
 
