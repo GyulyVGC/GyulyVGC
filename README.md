@@ -1,7 +1,7 @@
-<h3 align="center"> My name is Giuliano, nice to meet you!&nbsp;&nbsp;<a href="#"> <img alt="" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> </a> </h3>
+<h3 align="center"> I'm Giuliano, nice to meet you!&nbsp;&nbsp;<a href="#"> <img alt="" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> </a> </h3>
 
 <p>
-<a href="#">
+<a href="#x">
 <img alt="" src="https://user-images.githubusercontent.com/100347457/227869349-cc588f0f-13bf-45e4-aaf6-b55a5c641191.png" width=100%>
 </a>
 </p>
@@ -18,18 +18,18 @@
   </a>
 </p>
 
-<a href="#">
+<a href="#x">
 <div align="center">
-<img alt="" src="https://readme-typing-svg.herokuapp.com?lines=Addicted+to+Rust+🦀;Nature+lover+🏔️;Astronomy+enthusiast+🔭;&center=true&width=500&height=34">
+<img alt="" src="https://readme-typing-svg.herokuapp.com?lines=Rust+addicted+🦀;Mountain+lover+🏔️;Astronomy+enthusiast+🔭;&center=true&width=500&height=34">
 </div>
 </a>
 
 <div align="center">
-<a href="#">
+<a href="#x">
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=45,111111,555555&border_color=1DA1F2&title_color=1DA1F2&icon_color=1DA1F2&text_color=b35900"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="#x">
 <img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&layout=compact&theme=tokyonight&langs_count=8&bg_color=45,555555,111111&border_color=1DA1F2&title_color=1DA1F2&text_color=b35900"/>
 </a>
 </div>
