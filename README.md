@@ -2,7 +2,7 @@
 
 <p>
 <a href="#x">
-<img alt="" src="https://user-images.githubusercontent.com/100347457/227869349-cc588f0f-13bf-45e4-aaf6-b55a5c641191.png" width=100%>
+<img alt="" src="https://github.com/GyulyVGC/GyulyVGC/assets/100347457/3ca32690-919b-4fdf-ad5c-77ff268675b7" width=100%>
 </a>
 </p>
 
