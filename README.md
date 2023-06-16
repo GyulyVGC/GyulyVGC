@@ -26,7 +26,7 @@
 
 <div align="center">
 <a href="#x">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=45,111111,555555&border_color=1DA1F2&title_color=1DA1F2&icon_color=1DA1F2&text_color=b35900"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&show_icons=true&theme=tokyonight&count_private=true&bg_color=45,111111,555555&border_color=1DA1F2&title_color=1DA1F2&icon_color=1DA1F2&text_color=b35900"/>
 </a>
 &nbsp;
 <a href="#x">
