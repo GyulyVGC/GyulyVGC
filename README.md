@@ -32,7 +32,7 @@
 
 <div align="center">
 <a href="#x">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=false&show_icons=true&theme=tokyonight&count_private=true&bg_color=45,111111,555555&border_color=1DA1F2&title_color=1DA1F2&icon_color=1DA1F2&text_color=b35900&rank_icon=percentile"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=false&show_icons=true&theme=tokyonight&count_private=true&bg_color=45,111111,555555&border_color=1DA1F2&title_color=1DA1F2&icon_color=1DA1F2&text_color=b35900&rank_icon=percentile&custom_title=My+GitHub+stats"/>
 </a>
 &nbsp;
 <a href="#x">
