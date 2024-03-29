@@ -1,11 +1,5 @@
 <h3 align="center"> I'm Giuliano, nice to meet you!&nbsp;&nbsp;<a href="#"> <img alt="" src="resources/wave.gif" width = 25px> </a> </h3>
 
-<p>
-<a href="#x">
-<img alt="" src="resources/hr.png" width=100%>
-</a>
-</p>
-
 <div align="center"> 
   
 <a href="mailto:gyulyvgc99@gmail.com?subject=Feedback%20From%20Github&body=Hello,"><img alt="" title="Gmail" src="resources/gmail.svg"/></a>
@@ -13,7 +7,14 @@
 <a href="https://www.patreon.com/Sniffnet"><img alt="" title="Patreon" src="resources/patreon.svg"/></a>
 <a href="https://www.paypal.com/donate/?hosted_button_id=Y4NRT2SBP6K2N"><img alt="" title="PayPal" src="resources/paypal.svg"/></a>
 <a href="https://twitter.com/GyulyVGC"><img alt="" title="Twitter / X" src="resources/x.svg"/></a>
+
 </div>
+
+<p>
+<a href="#x">
+<img alt="" src="resources/hr.png" width=100%>
+</a>
+</p>
 
 <a href="#x">
 <div align="center">
