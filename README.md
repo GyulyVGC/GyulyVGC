@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/giuliano-bellini-b01286216/"><img alt="" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.patreon.com/Sniffnet"><img alt="" title="Patreon" src="https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
 <a href="https://www.paypal.com/donate/?hosted_button_id=Y4NRT2SBP6K2N"><img alt="" title="PayPal" src="https://img.shields.io/badge/PayPal-0079c1?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-<a href="https://twitter.com/GyulyVGC"><img alt="" title="Twitter" src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://twitter.com/GyulyVGC"><img alt="" title="Twitter / X" src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
 </div>
 
 <a href="#x">
