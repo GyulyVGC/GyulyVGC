@@ -16,11 +16,20 @@
 </a>
 </p>
 
+You can define me a...
+
+- 🤝 **open-source enthusiast** — loves crafting tools to make life easier for as many people as possible
+- 🦀 **full-time Rustacean** — always tries to solve new challenges in a robust and efficient way
+- 🔎 **perfectionist** — pays attention to every detail and can't sleep until everything is just right
+- 🌠 **astronomy lover** — enjoys stargazing and learning about the universe we live in
+- ⛰️ **mountain climber** — pushes his limits while enjoying the beauty of nature
+- 🍝 **pasta addicted** — can't resist a good plate of spaghetti (the Italian stereotype is real)
+
+<p>
 <a href="#x">
-<div align="center">
-<img alt="" src="resources/animated_strings.svg">
-</div>
+<img alt="" src="resources/hr.png" width=100%>
 </a>
+</p>
 
 <div align="center">
   
