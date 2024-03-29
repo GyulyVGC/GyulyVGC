@@ -1,8 +1,8 @@
-<h3 align="center"> I'm Giuliano, nice to meet you!&nbsp;&nbsp;<a href="#"> <img alt="" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> </a> </h3>
+<h3 align="center"> I'm Giuliano, nice to meet you!&nbsp;&nbsp;<a href="#"> <img alt="" src="resources/wave.gif" width = 25px> </a> </h3>
 
 <p>
 <a href="#x">
-<img alt="" src="https://github.com/GyulyVGC/GyulyVGC/assets/100347457/3ca32690-919b-4fdf-ad5c-77ff268675b7" width=100%>
+<img alt="" src="resources/hr.png" width=100%>
 </a>
 </p>
 
@@ -17,15 +17,15 @@
 
 <a href="#x">
 <div align="center">
-<img alt="" src="https://readme-typing-svg.herokuapp.com?lines=Rust+addicted+🦀;Mountain+lover+🏔️;Astronomy+enthusiast+🔭;&center=true&width=500&height=34">
+<img alt="" src="resources/animated_strings.svg">
 </div>
 </a>
 
 <div align="center">
   
-<a href="#x"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=false&show_icons=true&theme=tokyonight&count_private=true&bg_color=45,111111,555555&border_color=1DA1F2&title_color=1DA1F2&icon_color=1DA1F2&text_color=b35900&rank_icon=percentile&custom_title=My+GitHub+stats"/></a>
+<a href="#x"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=false&show_icons=true&count_private=true&bg_color=0,335cabaa,fc7b1eaa&border_color=1DA1F2&title_color=000000&icon_color=000000&text_color=000000&rank_icon=percentile&custom_title=My+GitHub+stats"/></a>
 &nbsp;
-<a href="#x"><img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&cache_seconds=86400&layout=compact&theme=tokyonight&langs_count=8&bg_color=45,555555,111111&border_color=1DA1F2&title_color=1DA1F2&text_color=b35900"/></a>
+<a href="#x"><img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&cache_seconds=86400&layout=compact&langs_count=8&bg_color=0,fc7b1eaa,335cabaa&border_color=1DA1F2&title_color=000000&text_color=000000"/></a>
   
 </div>
   
