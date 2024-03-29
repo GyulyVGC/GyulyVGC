@@ -8,11 +8,11 @@
 
 <div align="center"> 
   
-<a href="mailto:gyulyvgc99@gmail.com?subject=Feedback%20From%20Github&body=Hello,"><img alt="" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/giuliano-bellini-b01286216/"><img alt="" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.patreon.com/Sniffnet"><img alt="" title="Patreon" src="https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-<a href="https://www.paypal.com/donate/?hosted_button_id=Y4NRT2SBP6K2N"><img alt="" title="PayPal" src="https://img.shields.io/badge/PayPal-0079c1?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-<a href="https://twitter.com/GyulyVGC"><img alt="" title="Twitter / X" src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:gyulyvgc99@gmail.com?subject=Feedback%20From%20Github&body=Hello,"><img alt="" title="Gmail" src="resources/gmail.svg"/></a>
+<a href="https://www.linkedin.com/in/giuliano-bellini-b01286216/"><img alt="" title="LinkedIn" src="resources/linkedin.svg"></a> 
+<a href="https://www.patreon.com/Sniffnet"><img alt="" title="Patreon" src="resources/patreon.svg"/></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=Y4NRT2SBP6K2N"><img alt="" title="PayPal" src="resources/paypal.svg"/></a>
+<a href="https://twitter.com/GyulyVGC"><img alt="" title="Twitter / X" src="resources/x.svg"/></a>
 </div>
 
 <a href="#x">
