@@ -23,9 +23,9 @@
 
 <div align="center">
   
-<a href="#x"><img width="55%" alt="" title="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=false&show_icons=true&count_private=true&bg_color=0,335cabaa,fc7b1eaa&border_color=1DA1F2&title_color=000000&icon_color=000000&text_color=000000&rank_icon=percentile&custom_title=My+GitHub+Stats"/></a>
+<a href="#x"><img width="55%" alt="" title="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=false&show_icons=true&count_private=true&bg_color=0,335cabaa,fc7b1eaa&border_color=fc7b1eaa&title_color=000000&icon_color=000000&text_color=000000&rank_icon=percentile&custom_title=My+GitHub+Stats"/></a>
 &nbsp;
-<a href="#x"><img width="36.25%" alt="" title="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&cache_seconds=86400&layout=compact&langs_count=8&bg_color=0,fc7b1eaa,335cabaa&border_color=1DA1F2&title_color=000000&text_color=000000"/></a>
+<a href="#x"><img width="36.25%" alt="" title="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&cache_seconds=86400&layout=compact&langs_count=8&bg_color=0,fc7b1eaa,335cabaa&border_color=fc7b1eaa&title_color=000000&text_color=000000"/></a>
   
 </div>
   
