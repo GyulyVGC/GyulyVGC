@@ -16,7 +16,7 @@
 </a>
 </p>
 
-You can define me a...
+_You can define me a..._
 
 - 🤝 **open-source enthusiast** — loves crafting tools to make life easier for as many people as possible
 - 🦀 **full-time Rustacean** — always tries to solve new challenges in a robust and efficient way
@@ -33,23 +33,6 @@ You can define me a...
 
 <div align="center">
   
-<a href="#x"><img width="55%" alt="" title="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=false&show_icons=true&count_private=true&bg_color=0,335cabaa,fc7b1eaa&border_color=fc7b1eaa&title_color=000000&icon_color=000000&text_color=000000&rank_icon=percentile&custom_title=My+GitHub+Stats"/></a>
-&nbsp;
-<a href="#x"><img width="36.25%" alt="" title="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulyVGC&cache_seconds=86400&layout=compact&langs_count=8&bg_color=0,fc7b1eaa,335cabaa&border_color=fc7b1eaa&title_color=000000&text_color=000000"/></a>
+<a href="#x"><img width="70%" alt="" title="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=false&show_icons=true&count_private=true&bg_color=0,335cab,fc7b1e&border_color=000000&title_color=000000&icon_color=000000&text_color=000000&rank_icon=percentile&custom_title=My+GitHub+Stats"/></a>
   
 </div>
-  
-<!--
-**GyulyVGC/GyulyVGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
