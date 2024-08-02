@@ -1,4 +1,4 @@
-<h3 align="center"> I'm Giuliano, nice to meet you!&nbsp;&nbsp;<a href="#"> <img alt="" src="resources/wave.gif" width = 25px> </a> </h3>
+<h3 align="center"> I'm Giuliano, nice to meet you!&nbsp;&nbsp;<picture><img alt="" src="resources/wave.gif" width = 25px></picture> </h3>
 
 <div align="center"> 
   
@@ -11,9 +11,9 @@
 </div>
 
 <p>
-<a href="#x">
+<picture>
 <img alt="" src="resources/hr.png" width=100%>
-</a>
+</picture>
 </p>
 
 _You can define me a..._
@@ -26,13 +26,15 @@ _You can define me a..._
 - 🍝 **pasta addicted** — can't resist a good plate of spaghetti (the Italian stereotype is real)
 
 <p>
-<a href="#x">
+<picture>
 <img alt="" src="resources/hr.png" width=100%>
-</a>
+</picture>
 </p>
 
 <div align="center">
   
-<a href="#x"><img width="70%" alt="" title="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=false&show_icons=true&count_private=true&bg_color=45,0085caaa,fd8112aa&border_color=000000&title_color=000000&icon_color=fd8112&text_color=000000&rank_icon=percentile&custom_title=My+GitHub+Stats"/></a>
-  
+<picture>
+<img width="70%" alt="" title="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=false&show_icons=true&count_private=true&bg_color=45,0085caaa,fd8112aa&border_color=000000&title_color=000000&icon_color=fd8112&text_color=000000&rank_icon=percentile&custom_title=My+GitHub+Stats"/>
+</picture>
+
 </div>
