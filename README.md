@@ -34,7 +34,7 @@ _You can define me a..._
 <div align="center">
   
 <picture>
-<img width="600" alt="" title="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=true&show_icons=true&count_private=true&bg_color=45,0085caaa,fd8112aa&border_color=000000&title_color=000000&icon_color=fd8112&text_color=000000&rank_icon=percentile&custom_title=My+GitHub+Stats"/>
+<img width="600" alt="" title="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=true&show_icons=true&count_private=true&bg_color=45,01c6ff77,f2a82877&border_color=000000&title_color=000000&icon_color=f2a828&text_color=000000&rank_icon=percentile&custom_title=My+GitHub+Stats"/>
 </picture>
 
 </div>
