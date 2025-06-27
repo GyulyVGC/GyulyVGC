@@ -12,7 +12,7 @@
 
 <p>
 <picture>
-<img alt="" src="resources/hr.png" width=100%>
+<img alt="" src="https://raw.githubusercontent.com/GyulyVGC/GyulyVGC/main/resources/hr.png" width=100%>
 </picture>
 </p>
 
@@ -27,14 +27,14 @@ _You can define me a..._
 
 <p>
 <picture>
-<img alt="" src="resources/hr.png" width=100%>
+<img alt="" src="https://raw.githubusercontent.com/GyulyVGC/GyulyVGC/main/resources/hr.png" width=100%>
 </picture>
 </p>
 
 <div align="center">
   
 <picture>
-<img width="600" alt="" title="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=true&show_icons=true&count_private=true&bg_color=45,01c6ff77,f2a82877&border_color=000000&title_color=000000&icon_color=f2a828&text_color=000000&rank_icon=percentile&custom_title=My+GitHub+Stats"/>
+<img width="600" alt="" title="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GyulyVGC&cache_seconds=86400&include_all_commits=true&show_icons=true&count_private=true&bg_color=45,3b9ef5,0444ba&border_color=01c6ff&title_color=081020&icon_color=081020&text_color=081020&rank_icon=percentile&custom_title=My+GitHub+Stats"/>
 </picture>
 
 </div>
