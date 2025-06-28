@@ -3,9 +3,7 @@
 <div align="center"> 
   
 <a href="mailto:gyulyvgc99@gmail.com?subject=Feedback%20From%20Github&body=Hello,"><img alt="" title="Gmail" src="resources/gmail.svg"/></a>
-<a href="https://www.linkedin.com/in/giulianobellini/"><img alt="" title="LinkedIn" src="resources/linkedin.svg"></a> 
-<a href="https://www.patreon.com/Sniffnet"><img alt="" title="Patreon" src="resources/patreon.svg"/></a>
-<a href="https://www.paypal.com/donate/?hosted_button_id=Y4NRT2SBP6K2N"><img alt="" title="PayPal" src="resources/paypal.svg"/></a>
+<a href="https://www.linkedin.com/in/giulianobellini/"><img alt="" title="LinkedIn" src="resources/linkedin.svg"></a>
 <a href="https://twitter.com/GyulyVGC"><img alt="" title="Twitter / X" src="resources/x.svg"/></a>
 
 </div>
