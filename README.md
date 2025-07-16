@@ -1,4 +1,4 @@
-<h3 align="center"> I'm Giuliano,\nnice to meet you!&nbsp;&nbsp;<picture><img alt="" src="resources/wave.gif" width = 25px></picture> </h3>
+<h3 align="center"> I'm Giuliano, nice to meet you!&nbsp;&nbsp;<picture><img alt="" src="resources/wave.gif" width = 25px></picture> </h3>
 
 <div align="center"> 
   
